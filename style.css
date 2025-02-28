@@ -110,4 +110,13 @@ label {
 
 .right {
     margin-left: auto; /* Empuja el elemento a la derecha */
+    display: flex;
+}
+
+.right a{
+    margin-left: 20px;
+}
+
+.right a:first-child{
+    margin-left: 0px;
 }
