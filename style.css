@@ -12,13 +12,12 @@ p {
 /* background-color:rgb(24, 19, 12);*/
 
 footer {
-    padding: 25px;
     background-color: rgb(24, 19, 12);
-    text-align: center;
     position: fixed;
-    left: 0px;
-    bottom: 0px;
+    bottom: 0;
+    left: 0;
     width: 100%;
+    padding: 25px;
 }
 
 h1 {
