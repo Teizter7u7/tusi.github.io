@@ -49,7 +49,7 @@ p {
 
 .titulo {
     margin-top: 50px;
-    margin-bottom: -200px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -110,8 +110,4 @@ label {
 
 .right {
     margin-left: auto; /* Empuja el elemento a la derecha */
-}
-
-section {
-    flex: 0.5;
 }
