@@ -60,6 +60,7 @@ p {
     border-radius: 100px;
     margin-left: 8px;
     margin-right: 8px;
+    margin-bottom: 300px;
 }
 
 .submit {
@@ -110,4 +111,8 @@ label {
 
 .right {
     margin-left: auto; /* Empuja el elemento a la derecha */
+}
+
+section {
+    flex: 1;
 }
